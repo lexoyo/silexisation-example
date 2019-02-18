@@ -1,0 +1,69 @@
+https://stratisiot.com/connected-devices/the-stratis-gateway/
+
+
+STRATIS
+
+    Learn More
+    Properties
+    Partners
+    We Work With
+    Contact Us
+    Request A Demo
+
+The StratIS Gateway
+Gateways are placed strategically throughout the building
+Not in individual apartments
+Description
+
+The STRATIS’ Artis Gateway is designed to be used with STRATIS Access, Energy and Automation Management and Control Software Platform.
+Features
+
+    Small form factor, versatile design fits almost anywhere.
+    Plug and play connectivity without opening or drilling into the housing.
+    External recessed power, antenna, and Ethernet (PoE).
+    Designed with the PoE to leverage a building’s existing network infrastructure.
+    Easily and securely commissions in seconds.
+    Capable of managing up to 200 enabled devices for a wide range of applications.
+    Secure AES-256 bit encrypted 2.4 GHz Bluetooth 4.0 communication between the Artis Gateway enabled devices does not interfere with (802.11a/b/g/n/ac) WI-FI networks.
+
+Tech Specs
+
+    Model Number: Artis Gateway
+    Transmission/encryption: AES-256 bit key
+    Dimensions: 3.5 x 2.5 x 1
+    Power: PoE (12.95W compliant to IEEE 802.3af/at) with supplied adapter. 5VDC.
+
+    Communication Range: Up to 300 ft.
+    Protocol: Z-Wave
+    Transmission/encryption: TLS version 1.2 or greater (to IP host), 256 bit
+
+Ready to make your building smart?
+
+Thank you for your interest in STRATIS. Our team at STRATIS is ready to walk you through the process for installing our technology across your property and portfolios. Are you interested in finding out more information? Please fill out this short form.
+
+Customers
+
+    Property Owners and Developers
+    Property Managers
+    Distributors
+    Mobile App
+
+Company
+
+    Team
+    Careers
+    IoT 4 MFE
+    Case Studies
+    Press Kit
+    Press Releases
+    Blog
+
+Support
+
+    Store
+    FAQs & Help
+    Legal
+
+STRATISIS Logo
+
+COPYRIGHT © 2019 STRATIS
