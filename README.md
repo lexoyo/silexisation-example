@@ -1,10 +1,24 @@
 ## Colors
 
-* black
 * white
 * orange: #f7941d
-* light blue: #2e93ce
-* dark blue: #2ea3f2
+* light blue: #2ea3f2
+* dark blue: #2e93ce
+* grey: #666 (fonts)
+* dark black: #333 (fonts)
+* dark grey: #222 (footer bg)
+* darker grey: #1F1F1F (footer bg)
+
+# Fonts
+
+sizes & weights
+* nav 16px 600 black
+* h1 40px 400 white
+* subtitle 30px 500
+* h2 30px 400 white ou #333
+* h3 20px 400 #333
+* p 18px 500 #666
+* b 18px 400 #333
 
 ## Header links
 
