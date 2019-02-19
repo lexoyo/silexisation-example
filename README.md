@@ -1,5 +1,13 @@
 ## Workshop outline
 
+### setup
+
+Partir d’une page blanche
+
+Publier direct en ligne
+
+Settings: width 1200
+
 ### content
 
 Add sections with the raw text content and images. Add "semantinc" to the texts - titles, links, paragraph styles. Also add components where needed.
