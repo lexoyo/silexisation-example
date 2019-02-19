@@ -13,8 +13,8 @@
 
     <style type="text/css" class="silex-style">.silex-runtime div.nav-fixed {position: fixed !important; top: 0; z-index: 2;}div.hero-section {min-height: 100vh; display: flex; align-items: center; justify-content: space-around; flex-direction: column;}div.hero-section-center {position: inherit; top: 0; left: 0; flex: 0 0 auto;}</style>
     <script type="text/javascript" class="silex-script">$(function() {
-    
     var buttons = $('.hero-section-scroll-down');
+    console.log('xxx', buttons)
     buttons.click(function() {
         var section = $(this).parent('.section-element')
         $('html, body').animate({ scrollTop: section.prop("scrollHeight")}, 1000);
