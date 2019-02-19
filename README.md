@@ -1,5 +1,7 @@
 ## Workshop outline
 
+![silex workshop](https://user-images.githubusercontent.com/715377/53040451-086a0900-3447-11e9-8a10-5d975547fb77.jpeg)
+
 ### setup
 
 Ce que le client a fourni
