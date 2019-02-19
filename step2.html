@@ -17,7 +17,7 @@
     console.log('xxx', buttons);
     buttons.click(function() {
         var section = $(this).parent('.section-element')
-        console.log('xxx', section);
+        console.log('xxx', section, $(this));
         $('html, body').animate({ scrollTop: section.prop("scrollHeight")}, 1000);
     });
 
