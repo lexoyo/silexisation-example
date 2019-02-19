@@ -11,6 +11,8 @@
 
 # Fonts
 
+https://fonts.google.com/specimen/Dosis?selection.family=Dosis
+
 sizes & weights
 * nav 16px 600 black
 * h1 40px 400 white
