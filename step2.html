@@ -16,9 +16,9 @@
     var buttons = $('.hero-section-scroll-down');
     console.log('xxx', buttons);
     buttons.click(function() {
-        var section = $(this).parent('.section-element')
-        console.log('xxx', section, $(this));
-        $('html, body').animate({ scrollTop: section.prop("scrollHeight")}, 1000);
+        var $section = $($(this).parents('.section-element')[0]);
+        console.log('xxx', $section, $(this));
+        $('html, body').animate({ scrollTop: $section.prop("scrollHeight")}, 1000);
     });
 
 })</script>
