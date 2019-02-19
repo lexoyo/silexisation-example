@@ -1,40 +1,41 @@
 ## Workshop outline
 
-* content
+### content
 
-  Add sections with the raw text content and images. Add "semantinc" to the texts - titles, links, paragraph styles. Also add components where needed.
-  
-  => step1-content.html
+Add sections with the raw text content and images. Add "semantinc" to the texts - titles, links, paragraph styles. Also add components where needed.
 
-* aligns
+=> step1-content.html
 
-  Move and resize each text boxe and image to their final place and size.
-  
-  => step2-aligns.html
+### aligns
 
-* text-styles
+Move and resize each text boxe and image to their final place and size.
 
-  Create the text style classes and set the correct styles.
-  
-  => step3-text-styles.html
-  
-* css-styles
+=> step2-aligns.html
 
-  Add Silex widgets: copy/paste CSS, HTML and JS code.
-  
-  => step4-css-styles.html
-  
-* video
+### text-styles
 
-  Add a video player in background of the hero section.
-  
-  => step5-video.html
+Create the text style classes and set the correct styles.
 
-* mobile
+=> step3-text-styles.html
 
-  customize mobile version.
-  
-  => step6-mobile.html
+### Widgets
+
+Add Silex widgets: copy/paste CSS, HTML and JS code.
+
+=> step4-css-styles.html
+
+### video
+
+Add a video player in background of the hero section.
+
+=> step5-video.html
+
+### mobile
+
+customize mobile version.
+
+=> step6-mobile.html
+
 
 ## Colors
 
