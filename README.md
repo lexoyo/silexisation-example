@@ -2,6 +2,11 @@
 
 ### setup
 
+Ce que le client a fourni
+* les textes
+* les images
+* le design (psd, jpgs)
+
 Partir d’une page blanche
 
 Publier direct en ligne
