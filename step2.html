@@ -18,7 +18,7 @@
     buttons.click(function() {
         var $section = $($(this).parents('.section-element')[0]);
         console.log('xxx', $section.prop("scrollHeight"), $section.prop("clientHeight"));
-        $('html, body').animate({ scrollTop: $section.prop("scrollHeight") - $section.prop("clientHeight")}, 1000);
+        $('html, body').animate({ scrollTop: $section.prop("scrollHeight") + $section.offset().top}, 1000);
     });
 
 })</script>
